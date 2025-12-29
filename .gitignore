@@ -205,3 +205,10 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+#tokens
+.tio.tokens.json
+tokens.db
+tokens.db-shm
+tokens.db-wal
+
